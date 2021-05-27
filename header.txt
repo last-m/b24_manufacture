@@ -1,2 +1,4 @@
 Some header
-text from master
+Text from first branch
+
+Text from master
