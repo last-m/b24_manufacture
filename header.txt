@@ -1,0 +1,4 @@
+Some header
+Text from first branch
+
+Text from master
